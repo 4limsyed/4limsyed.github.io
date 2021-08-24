@@ -12292,7 +12292,7 @@ Xq:function Xq(a){this.a=a}},R={vA:function vA(a){this.a=a},Mg:function Mg(a){th
 this.b=a
 this.c=null},xu:function xu(a){this.a=a},OD:function OD(a){var _=this
 _.Q=_.z=_.y=_.x=_.r=_.f=_.e=_.d=0
-_.ch=20
+_.ch=50
 _.a=null
 _.b=a
 _.c=null},a9W:function a9W(a){this.a=a},a9V:function a9V(a,b){this.a=a
@@ -39181,7 +39181,7 @@ n=K.a3(b).rx
 j=L.cA("Ali Syed",k,k,k,k,k,k,k,Z.An(k,k,C.m,k,k,k,k,"Pacifico",k,b.v(j).f.a.b/16/2,k,k,P.aT([new Z.ay(C.q,C.G),new F.aI("03452c0b90c71f4088222325620904576503c4d5a3a6c563ee22d1e896788d3e",143508)],t.gm,t.Ks),k,k,k,k,k,k,k,k),k,k,k)
 if(!l.e){m=l.d
 p=H.b([new K.Bh(H.b([new T.f7("Home",new D.a6Z(l),m==="home",k),new T.f7("Travel",new D.a7_(l),m==="travel",k),new T.f7("People",new D.a70(l),m==="peopl",k),new T.f7("Work",new D.a71(l),m==="work",k),new T.f7("About",new D.a72(l),m==="about",k)],p),k)],p)}else p=H.b([],p)
-return new M.wm(!0,E.ahG(p,n,30,o.a.a/2,j,r.a.b/16),Q.ajY(!0,D.aA_("travel"),!0),new Z.CR(q,k),s,k)}}
+return new M.wm(!0,E.ahG(p,n,30,o.a.a/2,j,r.a.b/16),Q.ajY(!0,D.aA_(l.d),!0),new Z.CR(q,k),s,k)}}
 D.a6U.prototype={
 $0:function(){var s=this.a
 s.ae(new D.a6T(s))},
@@ -39291,7 +39291,7 @@ R.OD.prototype={
 H:function(a,b){var s,r=this,q=null,p=4294946560,o=t.w,n=b.v(o).f,m=b.v(o).f,l=r.d,k=r.e,j=r.f,i=r.r,h=r.x,g=r.y,f=r.z,e=r.Q,d=r.ch,c=M.bh(q,q,C.k,C.a8,q,q,q,b.v(o).f.a.b*0.71,q,q,q,q,q)
 o=b.v(o).f
 s=t.a
-return new U.ej(M.bh(q,T.kX(C.cH,H.b([new R.fA(l,"parallax0",q),new R.fA(k,"parallax1",q),new R.fA(j,"parallax2",q),new R.fA(i,"parallax3",q),new R.fA(h,"parallax4",q),new R.fA(g,"parallax5",q),new R.fA(f,"parallax6",q),new R.fA(e,"parallax7",q),new R.fA(d,"parallax8",q),B.X3(H.b([c,M.bh(q,T.fn(H.b([L.cA("Parallax In",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"MontSerrat-ExtraLight",q,q,30,q,q,q,q,!0,q,1.8,q,q,q,q,q),q,q,q),L.cA("Flutter",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"MontSerrat-Regular",q,q,51,q,q,q,q,!0,q,1.8,q,q,q,q,q),q,q,q),T.ez(q,20,q),T.ez(new Z.CL(1,new P.y(p),q),q,190),T.ez(q,20,q),L.cA("Made By",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"Montserrat-Extralight",q,q,15,q,q,q,q,!0,q,1.3,q,q,q,q,q),q,q,q),L.cA("4lisyd",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"Montserrat-Regular",q,q,20,q,q,q,q,!0,q,1.8,q,q,q,q,q),q,q,q),T.ez(q,50,q)],s),C.Z,C.bd),C.k,new P.y(4280352770),q,q,q,o.a.b,q,new V.aV(0,70,0,0),q,q,1/0)],s),C.p)],s),C.bi),C.k,q,q,q,q,n.a.b,q,q,q,q,m.a.a),new R.a9W(r),q,t.RS)}}
+return new U.ej(M.bh(q,T.kX(C.cH,H.b([new R.fA(l,"parallax0",q),new R.fA(k,"parallax1",q),new R.fA(j,"parallax2",q),new R.fA(i,"parallax3",q),new R.fA(h,"parallax4",q),new R.fA(g,"parallax5",q),new R.fA(f,"parallax6",q),new R.fA(e,"parallax7",q),new R.fA(d,"parallax8",q),B.X3(H.b([c,M.bh(q,T.fn(H.b([L.cA("I'd like to travel the world",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"MontSerrat-ExtraLight",q,q,20,q,q,q,q,!0,q,1.8,q,q,q,q,q),q,q,q),L.cA("before i die",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"MontSerrat-Regular",q,q,16,q,q,q,q,!0,q,q,q,q,q,q,q),q,q,q),T.ez(q,20,q),T.ez(new Z.CL(1,new P.y(p),q),q,190),T.ez(q,20,q),L.cA("My inspiration to work harder was never having a lot of money.",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"Montserrat-Extralight",q,q,15,q,q,q,q,!0,q,1.3,q,q,q,q,q),q,q,q),L.cA("- 4li",q,q,q,q,q,q,q,A.hr(q,q,new P.y(p),q,q,q,q,q,"Montserrat-Regular",q,q,20,q,q,q,q,!0,q,1.8,q,q,q,q,q),q,q,q),T.ez(q,50,q)],s),C.Z,C.bd),C.k,new P.y(4280352770),q,q,q,o.a.b,q,new V.aV(0,70,0,0),q,q,1/0)],s),C.p)],s),C.bi),C.k,q,q,q,q,n.a.b,q,q,q,q,m.a.a),new R.a9W(r),q,t.RS)}}
 R.a9W.prototype={
 $1:function(a){var s=this.a
 s.ae(new R.a9V(s,a))
