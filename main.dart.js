@@ -58685,7 +58685,7 @@ s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.CL.prototype={
 L(a,b){var s=A.bl(b),r=A.aaK(B.ac).ac,q=A.fh(r.a),p=A.fh(r.b),o=A.fh(r.c),n=A.fh(r.d),m=A.fh(r.e),l=A.fh(r.f),k=A.fh(r.r),j=A.fh(r.x),i=A.fh(r.y),h=A.fh(r.z),g=A.fh(r.Q),f=A.fh(r.ch)
-return new A.tT(new A.BR(null),new A.Va(),"4li Portfolio",s.Z8(B.er,B.H,B.Z,B.er,new A.dh(q,p,o,n,m,l,k,j,i,h,g,f,A.fh(r.cx))),B.tb,!1,null)}}
+return new A.tT(new A.BR(null),new A.Va(),"4li's Portfolio",s.Z8(B.er,B.H,B.Z,B.er,new A.dh(q,p,o,n,m,l,k,j,i,h,g,f,A.fh(r.cx))),B.tb,!1,null)}}
 A.Va.prototype={
 $2(a,b){var s=null,r=A.b([new A.cJ(450,"MOBILE",B.aW,1),new A.cJ(800,"TABLET",B.aW,1),new A.cJ(1000,"TABLET",B.aW,1),new A.cJ(1200,"DESKTOP",B.aW,1),new A.cJ(2460,"4K",B.aW,1)],t.ym)
 return A.hZ(B.a6,A.aD(s,s,B.i,B.er,s,s,s,s,s,s,s,s,s),s,r,new A.Ah(b,s),!1,s,!0,1,s,s,450,!1)},
